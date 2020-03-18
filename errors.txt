@@ -1,0 +1,713 @@
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.35584.0 @2020.03.17 210047.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 203335 (3).aoe2record
+invalid mgz file: unspecified builtin map: 124
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 194759 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 194337 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.11 220325 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 6
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.11 212425 (2).aoe2record
+invalid mgz file: unspecified builtin map: 126
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.11 212233 (4).aoe2record
+invalid mgz file: unspecified builtin map: 123
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.11 204606 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.07 135830 (2).aoe2record
+invalid mgz file: unspecified builtin map: 123
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.07 000618 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.26 230408 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.26 213911 (1).aoe2record
+invalid mgz file: expected 16 to 16, found 4
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.25 221623 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.25 214027 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.23 001146 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 235730 (1).aoe2record
+invalid mgz file: unspecified builtin map: 0
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 231339 (1).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 230930 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 1032, found 718
+    (parsing) -> scenario -> triggers
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 224420 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 29825
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 221025 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.22 214645 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31170
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 231528 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 223418 (3).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 222138 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 29871
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 221203 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 2515
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 213450 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 29204
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 211913 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27996
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 210238 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27167
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.21 205625 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 2
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.19 232000 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 15
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.19 224657 (5).aoe2record
+invalid mgz file: expected 16 to 16, found 10
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.19 220025 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.19 211733 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.19 204808 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 233623 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 233215 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 231641 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 221547 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 59392, found 40667
+    (parsing) -> scenario -> messages -> victory
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 213752 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 212648 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.17 202110 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 230822 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31621
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 224043 (3).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 222917 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 214948 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31020
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 213424 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 211908 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27266
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 210812 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.16 200330 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31179
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 230953 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31623
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 225124 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 30962
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 223755 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 222900 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 211234 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 194613 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31599
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 191158 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27066
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.15 190831 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 5855
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.14 225528 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27266
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.14 224213 (1).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.14 220646 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27065
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.13 220549 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35209.0 @2020.02.13 212911 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 12478
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.12 225908 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 51775
+    (parsing) -> scenario -> messages -> hints
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.12 221841 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 225454 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27367
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 222658 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 220107 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 212021 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 3
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 202119 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.11 193442 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 28898
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.09 225322 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.09 215419 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 30944
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.09 204041 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 29009
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34793.0 @2020.02.09 202751.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.07 235523 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 29183
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.07 231948 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 10
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.07 225637 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27298
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.07 224213 (4).aoe2record
+invalid mgz file: expected 16 to 16, found 2
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.07 205512 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 49385
+    (parsing) -> scenario -> messages -> hints
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34793.0 @2020.02.07 204937.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34793.0 @2020.02.07 202545.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.04 221550 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31002
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.04 213149 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31159
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.04 212345 (3).aoe2record
+invalid mgz file: no decoding mapping for 5
+    (parsing) -> de -> de
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\1v1 paul v connor gold rush.aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27258
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.02 192240 (3).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.02 190308 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 30991
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.02 183856 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.02 165503 (1).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.02 161539 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34793.0 @2020.02.02 161239.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34793.0 @2020.02.02 160402.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.01 215355 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 27086
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.01 133628 - 1v1 gold.aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27065
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.02.01 133303 (1).aoe2record
+invalid mgz file: expected 16 to 16, found 1
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.31 234141 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.31 230442 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.31 215708 (2).aoe2record
+invalid mgz file: expected 16 to 16, found 0
+    (parsing) -> scenario -> players
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.31 212732 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.29 234114 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.29 000032 (3).aoe2record
+invalid mgz file: unspecified builtin map: 0
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\tmp1.aoe2record
+invalid mgz file: unspecified builtin map: 0
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 235621 (2).aoe2record
+invalid mgz file: unspecified builtin map: 0
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 234836 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31644
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 232847 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31617
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 225645 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31634
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 223858 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31616
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 220247 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 214124 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34793.0 @2020.01.28 204932 (5).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.22 234907 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 981
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.22 232653 (2).aoe2record
+invalid mgz file: expected 64925150 to 64925150, found 1280979
+    (parsing) -> map_info
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 233137 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27321
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 224630 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 215009 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 210256 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 11216
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 203719 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27065
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34699.0 @2020.01.21 203328 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27065
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.20 000238 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 232726 (4).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 31227
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 230249 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 30914
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 214454 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 28926
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 212740 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 202857 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.17 195636 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.15 214609 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.15 214409 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.15 210531 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.15 210208 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.15 202904 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.13 220135 (6).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.13 212037 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.13 205137 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.13 204834 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34397.0 @2020.01.13 201748 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2020.01.09 203319 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2020.01.09 194407 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.29 173445 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.29 172933 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.29 165723 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.29 164933 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.29 163716.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.29 163028.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 184955 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27268
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 183207 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27260
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 181100 (1).aoe2record
+invalid mgz file: could not read enough bytes, expected 65535, found 43575
+    (parsing) -> scenario -> messages -> hints
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 172715 (2).aoe2record
+invalid mgz file: could not read enough bytes, expected 12544, found 2179
+    (parsing) -> scenario
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 163654 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 29096
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 161432 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 151424 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.28 141219 (4).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\persian-tc-rush.aoe2record
+invalid mgz file: could not read enough bytes, expected 32768, found 27260
+    (parsing) -> scenario -> messages -> instructions
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\rec.aoe2record
+invalid mgz file: no decoding mapping for 4
+    (parsing) -> de -> de
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.25 222435 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.25 212900 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.25 212637 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.25 155435.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.25 154059.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.24 215021 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.24 211641 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.23 211218 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.23 205842 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.23 200429 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.23 194944 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.23 191807 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.22 200623 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.22 195414.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.22 195304 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.22 185807 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.22 182936 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34223.0 @2019.12.22 175306 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34223.0 @2019.12.19 220833.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34055.0 @2019.12.17 204817 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.34055.0 @2019.12.17 204624 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34055.0 @2019.12.17 193241.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34055.0 @2019.12.17 193016.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.34055.0 @2019.12.17 192129.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.15 174004 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.15 173718 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.15 164635 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.15 125713.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.15 124204.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.14 145416.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 011221.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 010831.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 010417.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 010055.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 005745.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 005245.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33315.0 @2019.12.13 001837.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.11 234840 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.11 234343 (3).aoe2record
+invalid mgz file: expected 48147934 to 48147934, found 1062702
+    (parsing) -> map_info
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.11 233849 (3).aoe2record
+invalid mgz file: expected 48147934 to 48147934, found 1070934
+    (parsing) -> map_info
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.11 220108 (3).aoe2record
+invalid mgz file: could not read enough bytes, expected 22651011072, found 2176587
+    (parsing) -> initial -> particles
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.05 212939 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33315.0 @2019.12.05 205800 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.25 210115 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.25 205453 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.25 202514 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.25 192028 (3).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.25 191007 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.23 140513 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.23 131958 (1).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.23 131623 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.23 131053 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.33164.0 @2019.11.23 130828 (2).aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 234254.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 231638.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 231108.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 230917.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 230626.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 230125.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 225605.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 225536.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 225505.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 163730.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 162957.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 162455.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33164.0 @2019.11.22 162059.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 181633.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 181030.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 180819.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 180202.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 175633.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 175109.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 174441.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 173008.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 172349.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 171742.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 171552.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 171441.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 171225.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 170603.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 165933.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 152148.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 151241.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 150910.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 143403.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 130129.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\SP Replay v101.101.33059.0 @2019.11.21 125832.aoe2record
+invalid mgz file: expected 23 to 23, found 0
+    (parsing) -> de -> de -> strings
+20 / 260 parsed without errors
