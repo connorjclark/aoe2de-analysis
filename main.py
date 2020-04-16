@@ -86,6 +86,8 @@ all_games = [load_game(f) for f in files]
 games = [g for g in all_games if g['error'] is None]
 errored_games = [g for g in all_games if g['error'] is not None]
 
+# Error debugging.
+
 games_by_version = {}
 for game in all_games:
   key = game['version']
@@ -93,22 +95,6 @@ for game in all_games:
     games_by_version[key] = []
   games_by_version[key].append(game)
 
-winners = {}
-for game in games:
-  for p in game['players']:
-    if p['winner']:
-      key = p['name'] 
-      if key not in winners:
-        winners[key] = 0
-      winners[key] += 1
-
-
-game_types = {}
-for game in games:
-  key = game['header']['lobby']['game_type']
-  if key not in game_types:
-    game_types[key] = 0
-  game_types[key] += 1
 
 print(f'{len(games)} / {len(files)} parsed without errors\n')
 for version, games in dict(sorted(games_by_version.items())).items():
@@ -117,11 +103,36 @@ for version, games in dict(sorted(games_by_version.items())).items():
   print(f'Version {version} ({count - len(games_with_errors)} / {count}) parsed without errors')
   for game in games_with_errors:
     print('\t' , game['error'].replace('\n', ' '))
-  
-print('=== game types')
-pprint(game_types)
 print()
 
-print('=== winners')
-pprint(winners)
-print()
+# Fun stats.
+
+lighthouse_players = ['Hoten', 'paulie__b', 'Whiskey', 'blarp7070', 'MikeB924', 'jazyan11']
+def is_lighthouse_game(game):
+  return len([1 for p in game['players'] if p['name'] in lighthouse_players]) >= 2
+lighthouse_games = [g for g in games if is_lighthouse_game(g)]
+
+def count_by(games, fn):
+  counts = {}
+  for g in games:
+    results = fn(g)
+    if not isinstance(results, list):
+      results = [results]
+    for result in results:
+      if result not in counts:
+        counts[result] = 0
+      counts[result] += 1
+  return counts
+
+def show(name, fn):
+  print(f'=== {name}')
+  counts = count_by(lighthouse_games, fn)
+  counts = {k: v for k, v in sorted(counts.items(), key=lambda item: -item[1])}
+  for k, v in counts.items():
+    print(f'  {k}: {v}')
+  
+  print()
+
+show('winners',     lambda game: [p['name'] for p in game['players'] if p['winner']])
+show('game types',  lambda game: game['header'].lobby.game_type)
+show('lobby',       lambda game: game['header'].de.lobby_name.value)
