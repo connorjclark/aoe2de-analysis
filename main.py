@@ -63,7 +63,11 @@ def load_game(f):
     else:
       version = None
     
+    if error:
+      print(error, '| path:', f)
+    
     return {
+      'path': f,
       'time': os.path.getmtime(f),
       'version': version,
       'header': s and s.get_header(),
@@ -82,15 +86,12 @@ all_games = [load_game(f) for f in files]
 games = [g for g in all_games if g['error'] is None]
 errored_games = [g for g in all_games if g['error'] is not None]
 
-result_by_version = {}
+games_by_version = {}
 for game in all_games:
   key = game['version']
-  if key not in result_by_version:
-    result_by_version[key] = {'count': 0, 'errors': []}
-
-  result_by_version[key]['count'] += 1
-  if game['error']:
-    result_by_version[key]['errors'].append(game['error'])
+  if key not in games_by_version:
+    games_by_version[key] = []
+  games_by_version[key].append(game)
 
 winners = {}
 for game in games:
@@ -110,12 +111,12 @@ for game in games:
   game_types[key] += 1
 
 print(f'{len(games)} / {len(files)} parsed without errors\n')
-for version, result in dict(sorted(result_by_version.items())).items():
-  count = result['count']
-  num_errors = len(result['errors'])
-  print(f'Version {version} ({count - num_errors} / {count}) parsed without errors')
-  for error in result['errors']:
-    print('\t', error.replace('\n', ' '))
+for version, games in dict(sorted(games_by_version.items())).items():
+  count = len(games)
+  games_with_errors = [g for g in games if g['error'] is not None]
+  print(f'Version {version} ({count - len(games_with_errors)} / {count}) parsed without errors')
+  for game in games_with_errors:
+    print('\t' , game['error'].replace('\n', ' '))
   
 print('=== game types')
 pprint(game_types)
