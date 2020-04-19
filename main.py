@@ -14,6 +14,9 @@ parser.add_argument('--dir',
                     nargs='?',
                     default='C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame',
                     help='folder to find saved games')
+parser.add_argument('--nocache',
+                    action='store_true',
+                    default=False)
 args = parser.parse_args()
 
 files = glob.glob(f'{args.dir}/**/*.aoe2record', recursive=True)
@@ -26,6 +29,7 @@ files.reverse()
 
 # the only working files.
 # files=[
+#   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame/MP Replay v101.101.36202.0 @2020.04.17 222240 (3).aoe2record',
 #   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 224255 (4).aoe2record',
 #   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 223211 (4).aoe2record',
 #   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 222642 (4).aoe2record',
@@ -54,7 +58,7 @@ def json2obj(data): return json.loads(data, object_hook=_json_object_hook)
 def load_game(f):
   # Parsing game data takes a long time, so a summary of the game is cached.
   summary_path = f'{os.path.dirname(os.path.abspath(__file__))}/.cache/{os.path.basename(f)}.json'
-  if os.path.exists(summary_path):
+  if os.path.exists(summary_path) and not args.nocache:
     with open(summary_path) as file:
       return json2obj(file.read())
   
