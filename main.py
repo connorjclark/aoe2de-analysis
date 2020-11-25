@@ -2,10 +2,11 @@ import argparse
 import re
 import os
 import glob
-import json
+import simplejson as json
 from collections import namedtuple
 from pprint import pprint
 from types import SimpleNamespace
+from collections.abc import Iterable
 
 from mgz.summary import Summary
 
@@ -15,6 +16,9 @@ parser.add_argument('--dir',
                     default='C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame',
                     help='folder to find saved games')
 parser.add_argument('--nocache',
+                    action='store_true',
+                    default=False)
+parser.add_argument('--rmerrors',
                     action='store_true',
                     default=False)
 args = parser.parse_args()
@@ -55,12 +59,22 @@ files.reverse()
 def _json_object_hook(d): return namedtuple('X', d.keys())(*d.values())
 def json2obj(data): return json.loads(data, object_hook=_json_object_hook)
 
+def get_cache_path(f):
+  return f'{os.path.dirname(os.path.abspath(__file__))}/.cache/{os.path.basename(f)}.json'
+
 def load_game(f):
   # Parsing game data takes a long time, so a summary of the game is cached.
-  summary_path = f'{os.path.dirname(os.path.abspath(__file__))}/.cache/{os.path.basename(f)}.json'
+  summary_path = get_cache_path(f)
   if os.path.exists(summary_path) and not args.nocache:
     with open(summary_path) as file:
-      return json2obj(file.read())
+      game = json2obj(file.read())
+
+    # Retry parsing the game if there was an error.
+    # Use this arg when updating aoc_mgz
+    if args.rmerrors and game.error is not None:
+      os.remove(summary_path)
+    else:
+      return game
   
   summary, error = _load_game(f)
   
@@ -87,7 +101,10 @@ def load_game(f):
     del de.strings
     del de.strategic_numbers
     del de.guid
-    de.lobby_name = str(de.lobby_name.value, 'utf8')
+
+    for k in de:
+      if isinstance(de[k], Iterable) and 'length' in de[k] and 'value' in de[k] and isinstance(de[k].value, bytes):
+        de[k] = str(de[k].value, 'utf8')
   
   game = {
     'de': de,
@@ -125,7 +142,6 @@ def count_by(objs, fn):
   for obj in objs:
     key = fn(obj)
     print(key)
-
 
 all_games = [load_game(f) for f in files]
 games = [g for g in all_games if g.error is None]
