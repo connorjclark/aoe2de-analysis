@@ -62,20 +62,27 @@ def json2obj(data): return json.loads(data, object_hook=_json_object_hook)
 def get_cache_path(f):
   return f'{os.path.dirname(os.path.abspath(__file__))}/.cache/{os.path.basename(f)}.json'
 
-def load_game(f):
-  # Parsing game data takes a long time, so a summary of the game is cached.
-  summary_path = get_cache_path(f)
-  if os.path.exists(summary_path) and not args.nocache:
-    with open(summary_path) as file:
-      game = json2obj(file.read())
+# Parsing game data takes a long time, so a summary of the game is cached.
+def load_game_from_cache(f):
+  if args.nocache:
+    return
 
-    # Retry parsing the game if there was an error.
-    # Use this arg when updating aoc_mgz
-    if args.rmerrors and game.error is not None:
-      os.remove(summary_path)
-    else:
-      return game
-  
+  summary_path = get_cache_path(f)
+  if not os.path.exists(summary_path):
+    return
+
+  with open(summary_path) as file:
+    game = json2obj(file.read())
+
+  # Retry parsing the game if there was an error.
+  # Use this arg when updating aoc_mgz
+  if args.rmerrors and game.error is not None:
+    os.remove(summary_path)
+    return
+
+  return game
+
+def load_game(f):
   summary, error = _load_game(f)
   
   re_result = re.match('.*Replay v([0-9.]+).*', f)
@@ -117,7 +124,7 @@ def load_game(f):
     'version': version,
   }
   
-  with open(summary_path, 'w') as file:
+  with open(get_cache_path(f), 'w') as file:
     json_str = json.dumps(game, indent=2)
     file.write(json_str)
     return json2obj(json_str)
@@ -143,21 +150,37 @@ def count_by(objs, fn):
     key = fn(obj)
     print(key)
 
-all_games = [load_game(f) for f in files]
-games = [g for g in all_games if g.error is None]
+
+all_games = []
+games_to_load = []
+for f in files:
+  game = load_game_from_cache(f)
+  if game:
+    all_games.append(game)
+  else:
+    games_to_load.append(f)
+
+for i, f in enumerate(games_to_load):
+  print(f'{i+1} / {len(games_to_load)} {f}')
+  all_games.append(load_game(f))
+
+ok_games = [g for g in all_games if g.error is None]
 errored_games = [g for g in all_games if g.error is not None]
 
 # Error debugging.
 
 games_by_version = {}
 for game in all_games:
-  key = game.version
+  if game.version:
+    key = game.version
+  else:
+    key = 'unknown'
   if key not in games_by_version:
     games_by_version[key] = []
   games_by_version[key].append(game)
 
 
-print(f'{len(games)} / {len(files)} parsed without errors\n')
+print(f'{len(ok_games)} / {len(files)} parsed without errors\n')
 for version, games in dict(sorted(games_by_version.items())).items():
   count = len(games)
   games_with_errors = [g for g in games if g.error is not None]
@@ -173,7 +196,7 @@ def is_lighthouse_game(game):
   if game.restored or game.players is None:
     return False
   return len([1 for p in game.players if p.name in lighthouse_players]) >= 2
-lighthouse_games = [g for g in games if is_lighthouse_game(g)]
+lighthouse_games = [g for g in ok_games if is_lighthouse_game(g)]
 
 
 def aggregate(games, group_by_fn, reduce_fn):
@@ -223,3 +246,5 @@ show('winners',     lambda game: [p.name for p in game.players if p.winner])
 # show('stone',       lambda game: [p.name for p in game.players], resource_reducer('total_stone'))
 show('game types',  lambda game: game.lobby.game_type)
 show('lobby',       lambda game: game.de.lobby_name)
+
+# Total time played?
