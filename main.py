@@ -31,7 +31,7 @@ files.reverse()
 # Most don't work. This does.
 # files = ['C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.11 193658 (2).aoe2record']
 
-# the only working files.
+# many working files.
 # files=[
 #   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame/MP Replay v101.101.36202.0 @2020.04.17 222240 (3).aoe2record',
 #   'C:/Users/Connor/games/Age of Empires 2 DE/76561198009093901/savegame\MP Replay v101.101.35584.0 @2020.03.16 224255 (4).aoe2record',
@@ -122,6 +122,7 @@ def load_game(f):
     'restored': restored,
     'time': os.path.getmtime(f),
     'version': version,
+    'duration': summary.get_duration() if summary else 0,
   }
   
   with open(get_cache_path(f), 'w') as file:
@@ -211,34 +212,40 @@ def aggregate(games, group_by_fn, reduce_fn):
     for group in groups:
       if group not in results:
         results[group] = None
-      results[group] = reduce_fn(results[group], group, g)
+      results[group] = reduce_fn(results[group] or 0, group, g)
 
   return results
 
 
-def reduce_count(acc, group, game):
-  return (acc or 0) + 1
-
+def count_reducer(acc, group, game):
+  return acc + 1
 
 def resource_reducer(key):
   def reducer(acc, group, game):
     player = next(p for p in game.players if p.name == group)
     cur = getattr(player.achievements, key)
-    return (acc or 0) + cur
+    return acc + cur
   return reducer
 
 
-def show(name, group_by_fn, reduce_fn=reduce_count):
+def show(name, group_by_fn, reduce_fn=count_reducer):
   print(f'=== {name}')
   results = aggregate(lighthouse_games, group_by_fn, reduce_fn)
   results = {k: v for k, v in sorted(results.items(), key=lambda item: -item[1])}
   for k, v in results.items():
-    print(f'  {k}: {v}')
+    try:
+      print(f'  {k}: {v}')
+    except:
+      k = k.encode('utf-8')
+      print(f'  {k}: {v}')
   
   print()
 
 
 show('winners',     lambda game: [p.name for p in game.players if p.winner])
+# Not sure what unit "duration" is ...
+# show('time played (hours?)', lambda game: [p.name for p in game.players], lambda acc, group, game: acc + (game.duration if 'duration' in game else 0) / 1000 / 60 / 60)
+
 # Achievements don't work yet.
 # show('food',        lambda game: [p.name for p in game.players], resource_reducer('total_food'))
 # show('wood',        lambda game: [p.name for p in game.players], resource_reducer('total_wood'))
