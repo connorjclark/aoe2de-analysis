@@ -192,7 +192,7 @@ print()
 
 # Fun stats.
 
-lighthouse_players = ['Hoten', 'paulie__b', 'Whiskey', 'blarp7070', 'MikeB924', 'jazyan11']
+lighthouse_players = ['Hoten', 'paulie__b', 'paulieblueeyes', 'Whiskey', 'blarp7070', 'MikeB924', 'jazyan11', 'rdiscount', 'Casper', '[V101]Ursor']
 def is_lighthouse_game(game):
   if game.restored or game.players is None:
     return False
@@ -241,6 +241,9 @@ def show(name, group_by_fn, reduce_fn=count_reducer):
   
   print()
 
+  
+for i, game in enumerate(ok_games):
+  print(i, [p.name for p in game.players if p.winner])
 
 show('winners',     lambda game: [p.name for p in game.players if p.winner])
 # Not sure what unit "duration" is ...
